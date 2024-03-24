@@ -10,4 +10,4 @@ The following are the necessary outputs from the tasks
 
 | Test | ROC-AUC Score | ROC Curve |
 | ----------- | ------------- | --------- |
-| Common Test | 0.9926442933333334 | <img src="Results/common_test_roc.png" alt="ROC plot" width="400" height="400"/> |
+| Common Test | 0.993668 | <img src="Results/common_test_roc.png" alt="ROC plot" width="400" height="400"/> |
